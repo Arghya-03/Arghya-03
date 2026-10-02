@@ -1,0 +1,283 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="490"
+height="330"
+viewBox="0 0 490 330">
+
+<rect
+x="1"
+y="1"
+width="488"
+height="328"
+rx="12"
+fill="#0d1117"
+stroke="#30363d"
+stroke-width="2"/>
+
+<style>
+
+.card-title {
+    font-family:
+        "Cascadia Mono",
+        "Consolas",
+        "Liberation Mono",
+        monospace;
+
+    font-size: 17px;
+
+    font-weight: bold;
+
+    fill: #58a6ff;
+}
+
+.card-command {
+    font-family:
+        "Cascadia Mono",
+        "Consolas",
+        "Liberation Mono",
+        monospace;
+
+    font-size: 13px;
+
+    fill: #8b949e;
+}
+
+.key {
+    font-family:
+        "Cascadia Mono",
+        "Consolas",
+        "Liberation Mono",
+        monospace;
+
+    font-size: 13px;
+
+    fill: #58a6ff;
+
+    font-weight: bold;
+}
+
+.value {
+    font-family:
+        "Cascadia Mono",
+        "Consolas",
+        "Liberation Mono",
+        monospace;
+
+    font-size: 13px;
+
+    fill: #c9d1d9;
+}
+
+.status {
+    font-family:
+        "Cascadia Mono",
+        "Consolas",
+        "Liberation Mono",
+        monospace;
+
+    font-size: 12px;
+
+    fill: #3fb950;
+}
+
+.line {
+    opacity: 0;
+
+    animation:
+        fadeIn
+        0.45s
+        ease-out
+        forwards;
+}
+
+@keyframes fadeIn {
+
+    from {
+        opacity: 0;
+        transform: translateX(-12px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+
+}
+
+</style>
+
+<circle cx="22" cy="24" r="5" fill="#ff5f56"/>
+<circle cx="40" cy="24" r="5" fill="#ffbd2e"/>
+<circle cx="58" cy="24" r="5" fill="#27c93f"/>
+
+<text
+x="80"
+y="29"
+class="card-command">
+arghya@github ~ $ whoami
+</text>
+
+<text
+x="28"
+y="65"
+class="card-title">
+Arghya Maji
+</text>
+
+<line
+x1="28"
+y1="78"
+x2="462"
+y2="78"
+stroke="#30363d"
+stroke-width="1"/>
+
+<g
+class="line"
+style="animation-delay:0.00s;">
+
+<text
+x="28"
+y="108"
+class="key">
+Name
+</text>
+
+<text
+x="135"
+y="108"
+class="value">
+Arghya Maji
+</text>
+
+</g>
+
+<g
+class="line"
+style="animation-delay:0.18s;">
+
+<text
+x="28"
+y="138"
+class="key">
+Role
+</text>
+
+<text
+x="135"
+y="138"
+class="value">
+Student &amp; Developer
+</text>
+
+</g>
+
+<g
+class="line"
+style="animation-delay:0.36s;">
+
+<text
+x="28"
+y="168"
+class="key">
+Languages
+</text>
+
+<text
+x="135"
+y="168"
+class="value">
+C • Java • Python • JavaScript
+</text>
+
+</g>
+
+<g
+class="line"
+style="animation-delay:0.54s;">
+
+<text
+x="28"
+y="198"
+class="key">
+Frontend
+</text>
+
+<text
+x="135"
+y="198"
+class="value">
+HTML • CSS • JavaScript • React
+</text>
+
+</g>
+
+<g
+class="line"
+style="animation-delay:0.72s;">
+
+<text
+x="28"
+y="228"
+class="key">
+Backend
+</text>
+
+<text
+x="135"
+y="228"
+class="value">
+Node.js • Express
+</text>
+
+</g>
+
+<g
+class="line"
+style="animation-delay:0.90s;">
+
+<text
+x="28"
+y="258"
+class="key">
+Database
+</text>
+
+<text
+x="135"
+y="258"
+class="value">
+MySQL • MongoDB
+</text>
+
+</g>
+
+<g
+class="line"
+style="animation-delay:1.08s;">
+
+<text
+x="28"
+y="288"
+class="key">
+Interests
+</text>
+
+<text
+x="135"
+y="288"
+class="value">
+Web Development • Full Stack
+</text>
+
+</g>
+
+<text
+x="28"
+y="326"
+class="status">
+
+● currently building &amp; learning
+
+</text>
+</svg>

@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Arghya-03/Arghya-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./arghya-ascii.svg" width="100%" alt="Arghya Maji ASCII Portrait">
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+
+<img src="./info-card.svg" width="490" alt="Arghya Maji developer information">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./contributions.svg" width="900" alt="GitHub contribution activity">
+
+</div>
+
+<br>
+
+```text
++--------------------------------------------------------------+
+|                         arghya@github                        |
++--------------------------------------------------------------+
+|                                                              |
+|  > Student & Developer                                       |
+|  > Building web experiences and full-stack projects          |
+|  > Learning - Building - Improving                           |
+|                                                              |
+|  $ whoami                                                    |
+|  Arghya Maji                                                 |
+|                                                              |
+|  $ skills                                                    |
+|  C - Java - Python - JavaScript                              |
+|  HTML - CSS - React - Node.js - Express                      |
+|  MySQL - MongoDB                                             |
+|                                                              |
+|  $ interests                                                 |
+|  Web Development - Full Stack                                |
+|                                                              |
++--------------------------------------------------------------+
+```
+<div align="center">
+
+### `>_ Thanks for visiting`
+
+</div>

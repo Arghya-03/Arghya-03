@@ -1,13 +1,5 @@
 <div align="center">
 
-<img src="./arghya-ascii.svg" width="100%" alt="Arghya Maji ASCII Portrait">
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="./info-card.svg" width="490" alt="Arghya Maji developer information">
 
 </div>
@@ -44,6 +36,7 @@
 |                                                              |
 +--------------------------------------------------------------+
 ```
+
 <div align="center">
 
 ### `>_ Thanks for visiting`
